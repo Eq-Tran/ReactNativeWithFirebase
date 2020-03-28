@@ -59,7 +59,7 @@ Repository describing how to set up a react native app with firebase services
       that was introduced in the 6.0 update.
     */
 
-11) After completing these steps navigate to:
+11) After completing the steps navigate to the URL given to complete the setup of your React Native App with Firebase Services:
 
     // Adding and creating the firebase credentials to your RN App
   - https://invertase.io/oss/react-native-firebase/quick-start/ios-firebase-credentials
