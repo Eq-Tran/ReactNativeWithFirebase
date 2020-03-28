@@ -9,11 +9,11 @@ Repository describing how to set up a react native app with firebase services
 
 1) Create a new React Application
 
-  - npx @react-native-community/cli init --template=@react-native-firebase/template <name>
+  - npx @react-native-community/cli init --template=@react-native-firebase/template NameofApp
 
 2) Navigate to the App directory you made previously
 
-  - cd <App Name>
+  - cd /NameofApp
 
 3) Install the React Native Firebase App dependencies
 
@@ -33,10 +33,7 @@ Repository describing how to set up a react native app with firebase services
 
 7) After the previous command enter this similar command
 
-  -   # add the Firebase pod for Google Analytics
-      pod 'Firebase/Analytics' // command here
-      # add pods for any other desired Firebase products
-      # https://firebase.google.com/docs/ios/setup#available-pods
+  -  pod 'Firebase/Analytics' // command here 
 
 8) Navigate through the Podfile until you find the line of code: use_native_modules!. Delete or comment it out
 
