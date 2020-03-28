@@ -10,6 +10,7 @@ Repository describing how to set up a react native app with firebase services
 1) Create a new React Application
 
   - npx @react-native-community/cli init --template=@react-native-firebase/template NameofApp
+  - SOME people will run into the error described above if so follow through the steps given here
 
 2) Navigate to the App directory you made previously
 
